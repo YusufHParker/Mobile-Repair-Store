@@ -81,6 +81,10 @@
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+.heading-size {
+  font-size: 45px;
+}
+
 /* Caption text */
 .text {
   color: #f2f2f2;
